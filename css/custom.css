@@ -1,0 +1,4 @@
+article.post-view__article .article__content p, article.post-view__article .article__content li, article.post-view__article .article__content ol, article.post-view__article .article__content table, article.post-view__article .article__content code {
+    font-size: 1.6rem !important;
+    line-height: 2.6rem !important;
+}
